@@ -1,0 +1,23 @@
+# Business Metrics Analyzer
+
+Учебный проект по дисциплине «Проектирование и разработка
+бизнес-ориентированного программного обеспечения».
+
+## Бизнес-задача
+
+Расчёт и визуализация ключевых показателей эффективности (KPI)
+предприятия на основе данных о выручке и себестоимости.
+
+## Стек
+
+- Python 3.10+
+- pandas
+- matplotlib
+
+## Запуск
+
+```bash
+python -m venv .venv
+source .venv/bin/activate   # или .venv\Scripts\activate для Windows
+pip install -r requirements.txt
+python main.py
