@@ -18,9 +18,11 @@
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate 
+source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
-Автор
+```
 
-Студент группы Б1123-38.03.05, Забирова Р.Р
+## Автор
+
+Студент группы Б1123-38.03.05, Забирова Р.Р.
